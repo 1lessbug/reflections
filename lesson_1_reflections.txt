@@ -1,0 +1,18 @@
+Viewing diff really helps to see the bug becuase it helps to see it come one
+
+--> How could having easy acess to the entire history of a file make you a more efficient programmer in
+the long term? 
+> confident
+> change log
+> find mistakes and improve them
+> control
+--> What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Pros -- you logically decide when to commit
+Cons -- you might forget to commit
+
+git log --stat is a good shit I guess
+
+I really like this command because this is good and very good I guess. 
+
+I feel like I can be a good editor of file but I don't know man
+
