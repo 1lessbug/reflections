@@ -12,7 +12,5 @@ Cons -- you might forget to commit
 
 git log --stat is a good shit I guess
 
-I really like this command because this is good and very good I guess. 
-
 I feel like I can be a good editor of file but I don't know man
 
