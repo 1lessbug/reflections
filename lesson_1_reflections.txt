@@ -15,4 +15,11 @@ git log --stat is a good shit I guess
 I feel like I can be a good editor of file but I don't know man
 --> Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
 > Because files are related on program, but Google Docs etc don't have files that are related.
-
+> How might using version control make you more confident to make changes that could break something?
+--> because I can always go back and fix it. like going back in time to fix your mistakes.
+--> Now that you have your workspace set up, what do you want to try using Git for?
+> Thanks for asking but I really want to show off using git and really be a cool
+programmer that I'm not I guess. Seriously google is this the answer you wanted to hear.
+But honestly I'm learning to do my project and I really like to learn to do stuff. and this
+is really annoyign that you keep asking me these stupid question for the sake of 
+marry and I don't get it man. hello world I guess. 
