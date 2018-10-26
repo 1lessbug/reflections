@@ -1,2 +1,8 @@
 --> How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area contains files ready to commit to git
+
+OKey dokey, come on
+--> How can you use the staging area to make sure you have one commit per logical change?
+> Add files to staging area and commit from staging area instead of directly commiting.
+--> What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+> For experimental code, different dev feature that has to be reviewed
